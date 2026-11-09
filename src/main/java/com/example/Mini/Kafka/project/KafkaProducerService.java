@@ -20,4 +20,3 @@ public class KafkaProducerService {
         kafkaTemplate.send("my-first-topic", message);
     }
 }
-
